@@ -1,0 +1,45 @@
+
+
+.logo{
+	height: 25%;
+	width: 15%;
+}
+
+
+
+img{
+	display: inline-block;
+	display: block;
+	float: left;
+	width: 20%;
+	height: 10%px;
+	margin: 25px;
+	border-radius: 10px;
+}
+
+.button{
+	position: absolute;
+	top: 5%;
+	left: 80%;
+    text-transform: uppercase;
+}
+
+.btn{
+	border: 1px solid white;
+	padding: 10px 30px;
+	color: orange;
+	text-decoration: none;
+	transition: 0.6s ease; 
+
+}
+.btn:hover{
+  background-color:ornage;
+	color: #000;	
+}
+
+h1{
+	color: lime;
+	position: absolute;
+	left: 18%;
+
+}

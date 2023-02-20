@@ -1,0 +1,43 @@
+  .imgs {
+  width: 100%;
+  margin-top: 25px;
+  overflow: auto;
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 25px;
+}
+
+.imgs_block {
+  display: inline-block;
+  width: 35%;
+  height: 360px;
+  margin-right: 50px;
+  overflow: auto;
+  background-color: #fff;
+}
+
+
+.imgs_block_head {
+  max-height: 250px;  
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  background: no-repeat;
+}
+
+.imgs_block_head img {
+  border: 2px solid #3D605E;
+  width: auto;
+  max-height: 250px;
+}
+
+/*.imgs_block_content {
+  overflow: auto;
+  border: 2px solid #3D605E;
+  background: #CAE9FA;
+  padding-top: 15px;
+  color: rgb(75,75,75);
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+}*/
